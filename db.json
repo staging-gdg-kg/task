@@ -1,1 +1,26 @@
-{}
+[
+  {
+    "name": "Boom",
+    "short": "B",
+    "joke": "Life feels very much like a test I didn’t study for.",
+    "rating": 2
+  },
+  {
+    "name": "Ritz",
+    "short": "R",
+    "joke": "You should never start your diet on a Monday.",
+    "rating": 1
+  },
+  {
+    "name": "Covid",
+    "short": "C",
+    "joke": "By plans I mean I want to stay home and watch Netflix.",
+    "rating": 4
+  },
+  {
+    "name": "Type",
+    "short": "T",
+    "joke": "Auto correct could ruin your life.",
+    "rating": 3
+  }
+]
